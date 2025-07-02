@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Guild = () => {
+const Guide = () => {
   return (
     <div>Guild</div>
   )
 }
 
-export default Guild
+export default Guide
