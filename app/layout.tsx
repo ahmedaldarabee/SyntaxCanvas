@@ -16,7 +16,7 @@ export default function RootLayout({children}:Readonly<{children: React.ReactNod
         <main className="relative overflow-hidden">
           {children}
         </main>
-        <Footer />
+        {/* <Footer /> */}
       </body>
     </html>
   );
